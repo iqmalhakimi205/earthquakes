@@ -13,7 +13,7 @@
          "properties":{
             "mag":2,
             "magType":"ml"
-         }
+         },
          "geometry":{
             "type":"Point",
             "coordinates":[
