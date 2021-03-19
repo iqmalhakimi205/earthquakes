@@ -10,35 +10,6 @@
    },
    "features":[
       {
-         "type":"Feature",
-         "properties":{
-            "mag":2,
-            "place":"4km W of Castaic, CA",
-            "time":1517966773840,
-            "updated":1517966996303,
-            "tz":-480,
-            "url":"https://earthquake.usgs.gov/earthquakes/eventpage/ci37868143",
-            "detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37868143.geojson",
-            "felt":null,
-            "cdi":null,
-            "mmi":null,
-            "alert":null,
-            "status":"automatic",
-            "tsunami":0,
-            "sig":62,
-            "net":"ci",
-            "code":"37868143",
-            "ids":",ci37868143,",
-            "sources":",ci,",
-            "types":",geoserve,nearby-cities,origin,phase-data,scitech-link,",
-            "nst":7,
-            "dmin":0.04214,
-            "rms":0.35,
-            "gap":174,
-            "magType":"ml",
-            "type":"earthquake",
-            "title":"M 2.0 - 4km W of Castaic, CA"
-         },
          "geometry":{
             "type":"Point",
             "coordinates":[
