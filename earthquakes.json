@@ -10,6 +10,7 @@
    },
    "features":[
       {
+         "type":"Feature",
          "properties":{
             "mag":2,
             "magType":"ml"
