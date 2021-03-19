@@ -13,6 +13,7 @@
          "type":"Feature",
          "properties":{
             "mag":2,
+            "nst":7,
             "dmin":0.04214,
             "rms":0.35,
             "gap":174,
