@@ -1,0 +1,40 @@
+{
+         "type":"Feature",
+         "properties":{
+            "mag":2.6,
+            "place":"120km SE of Old Iliamna, Alaska",
+            "time":1517946035877,
+            "updated":1517954123040,
+            "tz":-540,
+            "url":"https://earthquake.usgs.gov/earthquakes/eventpage/ak18378155",
+            "detail":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak18378155.geojson",
+            "felt":null,
+            "cdi":null,
+            "mmi":null,
+            "alert":null,
+            "status":"automatic",
+            "tsunami":0,
+            "sig":104,
+            "net":"ak",
+            "code":"18378155",
+            "ids":",ak18378155,us1000chmd,",
+            "sources":",ak,us,",
+            "types":",geoserve,origin,phase-data,",
+            "nst":null,
+            "dmin":null,
+            "rms":0.76,
+            "gap":null,
+            "magType":"ml",
+            "type":"earthquake",
+            "title":"M 2.6 - 120km SE of Old Iliamna, Alaska"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -153.399,
+               58.9587,
+               63.5
+            ]
+         },
+         "id":"ak18378155"
+      }
