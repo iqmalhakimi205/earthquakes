@@ -13,6 +13,9 @@
          "type":"Feature",
          "properties":{
             "mag":2,
+            "dmin":0.04214,
+            "rms":0.35,
+            "gap":174,
             "magType":"ml"
          },
          "geometry":{
